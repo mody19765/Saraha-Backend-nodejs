@@ -74,7 +74,7 @@ Sarahah-App/
 
 ## 📫 Contact
 
-Mostafa Mody  
+Mohamed Ehab  
 Email: [mody.dev19765@gmail.com](mailto:mody.19765@gmail.com)  
 GitHub: [https://github.com/mody19765](https://github.com/mody19765)
 
